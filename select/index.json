@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "base_track": "【和訳】Linkin Park - Numb",
+  "base_artist": "iva.",
+  "createdAt": "2025-12-01T03:15:31.610062Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "It's Going Down (Feat. Mike Shinoda And Mr. Hahn Of Linkin Park)",
+      "artist": "The X-Ecutioners",
+      "has_synced": true,
+      "path": "select/01_It's_Going_Down_(Feat._Mike_Shinoda_And_Mr._Hahn_Of_Linkin_Park)_The_X-Ecutioners.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "One Step Closer (Linkin Park на русском)",
+      "artist": "RADIO TAPOK",
+      "has_synced": true,
+      "path": "select/02_One_Step_Closer_(Linkin_Park_на_русском)_RADIO_TAPOK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "One Step Closer (Linkin Park)",
+      "artist": "RADIO TAPOK",
+      "has_synced": true,
+      "path": "select/03_One_Step_Closer_(Linkin_Park)_RADIO_TAPOK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Darker Than Blood (feat. Linkin Park)",
+      "artist": "Steve Aoki feat. Linkin Park",
+      "has_synced": true,
+      "path": "select/04_Darker_Than_Blood_(feat._Linkin_Park)_Steve_Aoki_feat._Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Darker Than Blood (feat. Linkin Park)",
+      "artist": "Steve Aoki & Linkin Park",
+      "has_synced": true,
+      "path": "select/05_Darker_Than_Blood_(feat._Linkin_Park)_Steve_Aoki_&_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Linkin Park - Crawling",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/06_Linkin_Park_-_Crawling_Various.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "It's going down ft. Mike Shinoda & Mr. Hahn of Linkin Park",
+      "artist": "X-Ecutioners",
+      "has_synced": true,
+      "path": "select/07_It's_going_down_ft._Mike_Shinoda_&_Mr._Hahn_of_Linkin_Park_X-Ecutioners.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Never Let Me Down (produced by Mike Shinoda from Linkin Park and Chad Hugo of The Heptunes)",
+      "artist": "Kenna",
+      "has_synced": true,
+      "path": "select/08_Never_Let_Me_Down_(produced_by_Mike_Shinoda_from_Linkin_Park_and_Chad_Hugo_of_Th_Kenna.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Darker Than Blood (feat. Linkin Park)",
+      "artist": "Steve Aoki, Linkin Park",
+      "has_synced": true,
+      "path": "select/09_Darker_Than_Blood_(feat._Linkin_Park)_Steve_Aoki,_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Payphone Lights (Ellie Goulding vs. Maroon 5 vs. The Wanted vs. Katy Perry vs. Florence + the Machine vs. Linkin Park)",
+      "artist": "DJ Schmolli",
+      "has_synced": false,
+      "path": "select/10_Payphone_Lights_(Ellie_Goulding_vs._Maroon_5_vs._The_Wanted_vs._Katy_Perry_vs._F_DJ_Schmolli.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "One Step Closer(Linkin Park)",
+      "artist": "Richard Cheese",
+      "has_synced": true,
+      "path": "select/11_One_Step_Closer(Linkin_Park)_Richard_Cheese.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Darker Than Blood (feat. LINKIN PARK)",
+      "artist": "Steve Aoki",
+      "has_synced": true,
+      "path": "select/12_Darker_Than_Blood_(feat._LINKIN_PARK)_Steve_Aoki.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Darker Than Blood (feat. Linkin Park)",
+      "artist": "Steve Aoki",
+      "has_synced": true,
+      "path": "select/13_Darker_Than_Blood_(feat._Linkin_Park)_Steve_Aoki.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Things In My Jeep (feat. LINKIN PARK)",
+      "artist": "The Lonely Island",
+      "has_synced": true,
+      "path": "select/14_Things_In_My_Jeep_(feat._LINKIN_PARK)_The_Lonely_Island.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Linkin Park Medley (feat. Zackary David and Brian Storm)",
+      "artist": "Cole Rolland",
+      "has_synced": false,
+      "path": "select/15_Linkin_Park_Medley_(feat._Zackary_David_and_Brian_Storm)_Cole_Rolland.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Things in My Jeep (ft. Linkin Park)",
+      "artist": "The Lonely Island",
+      "has_synced": true,
+      "path": "select/16_Things_in_My_Jeep_(ft._Linkin_Park)_The_Lonely_Island.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Leave Out All The Rest (Linkin Park Cover)",
+      "artist": "Boyce Avenue",
+      "has_synced": true,
+      "path": "select/17_Leave_Out_All_The_Rest_(Linkin_Park_Cover)_Boyce_Avenue.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Shadow Of The Day (Linkin Park Cover)",
+      "artist": "Boyce Avenue",
+      "has_synced": true,
+      "path": "select/18_Shadow_Of_The_Day_(Linkin_Park_Cover)_Boyce_Avenue.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Link in Bio",
+      "artist": "Diet Cig",
+      "has_synced": false,
+      "path": "select/pl_01_Link_in_Bio_Diet_Cig.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Linkinbio",
+      "artist": "Diet Cig",
+      "has_synced": false,
+      "path": "select/pl_02_Linkinbio_Diet_Cig.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Linkin'play",
+      "artist": "Diet Cig",
+      "has_synced": false,
+      "path": "select/pl_03_Linkin'play_Diet_Cig.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "LINKIN vibes",
+      "artist": "Diet Cig",
+      "has_synced": false,
+      "path": "select/pl_04_LINKIN_vibes_Diet_Cig.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Linkin Verbz (Feat. Common Denominator)",
+      "artist": "Diet Cig",
+      "has_synced": false,
+      "path": "select/pl_05_Linkin_Verbz_(Feat._Common_Denominator)_Diet_Cig.txt"
+    }
+  ]
+}
